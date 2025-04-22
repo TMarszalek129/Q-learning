@@ -17,8 +17,8 @@ The important parameter of training process is the final difference (diff). The 
 <h2>Sample characteristics obtained </h2>
 
 <h3>Characteristic of epsilon for all episodes </h3>
-![img.png](images/img.png)
+<img src="images/img.png">
 <h3>Characteristic of total rewards over all episodes</h3>
-![img_1.png](images/img_1.png)
+<img src="images/img_1.png">
 <h3>Smoothed characteristic of total rewards over all episodes</h3>
-![img_2.png](images/img_2.png)
+<img src="images/img_2.png">
